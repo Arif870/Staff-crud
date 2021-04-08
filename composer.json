@@ -1,0 +1,16 @@
+{
+    "name": "arif/staff",
+    "description": "This app is for learning purpose",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Arif",
+        "email": "arifuzzaman959@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
